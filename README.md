@@ -5,10 +5,10 @@ pip install -r requirements.txt
 python main.py
 ```
 
-Will get those result:
+Will get these results:
 
-![a.png](a.png)
+![chart1.png](chart1.png)
 
-![b.png](b.png)
+![chart2.png](chart2.png)
 
-![c.png](c.png)
+![chart3.png](chart3.png)
